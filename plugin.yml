@@ -1,0 +1,6 @@
+name: FixBlockPlace
+main: Luthfi\FixBlockPlace\FixBlockPlace
+version: 1.0.0
+api: 5.0.0
+author: Luthfi
+description: A plugin to fix disappearing blocks when placed.
